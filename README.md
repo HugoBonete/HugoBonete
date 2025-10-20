@@ -1,16 +1,17 @@
-## Hi there 👋
+## 🚀 About Me
+* I'm a computer engineering student in Universidad Miguel Hernandez in Elche 
 
-<!--
-**HugoBonete/HugoBonete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-bonete-alonso-6a96b52a6/)
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Client:** React, Java Script, Angular, Flutter
+
+**Server:** PHP, Laravel, Python, SQL, Java, C++
+
+**Other:** Git, N8N
+
+## Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Hugo%20Bonete&theme=highcontrast)](https://git.io/streak-stats)
