@@ -8,7 +8,7 @@
 
 **Client:** React, Java Script, Angular, Flutter
 
-**Server:** PHP, Laravel, Python, SQL, Java, C++
+**Server:** PHP, Laravel, Python, SQL, Java, C++, .NET
 
 **Other:** Git, N8N
 
